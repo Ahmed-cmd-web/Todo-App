@@ -1,0 +1,10 @@
+.MuiCard-root {
+  display: flex;
+  width: calc(100%-5px);
+  background-color: white;
+  justify-content: space-between;
+  padding: 5px;
+  min-height: 100px;
+  align-items: center;
+  /* flex:1 */
+}
